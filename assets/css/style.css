@@ -43,7 +43,7 @@ header nav ul {
 }
 
 header nav ul li a {
-  margin: 10 15px;
+  margin: 10px 15px;
   font-weight: lighter;
   font-size: 1.55vw;
 }
@@ -92,6 +92,7 @@ section {
   justify-content: center;
   flex-wrap: wrap;
   align-items: flex-start;
+  padding: 15px 15px 15px 15px;
 }
 
 .hero-cta {
